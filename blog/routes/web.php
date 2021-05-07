@@ -13,6 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/', function(){
     return view('welcome');
-});
+})->name('welcome')->middleware('checkLogin');
+//Trang chủ
+Route::get('/','ProductController@index')->name('homePage');
+
+//Login
+Route::get('/login', function(){
+    return view('login');
+})->name('login');

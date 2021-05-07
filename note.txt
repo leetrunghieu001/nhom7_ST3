@@ -1,0 +1,2 @@
+Tách layout xong, up layout lên rồi, lọc sản phẩm theo brand và type luôn rồi
+Lọc theo data-fill
