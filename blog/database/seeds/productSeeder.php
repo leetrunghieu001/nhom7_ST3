@@ -550,31 +550,22 @@ class productSeeder extends Seeder
             [
                 'typeID' => 1, 'brandID' => 3, 'productName' => 'Supreme Men\'s Black X Mike Kelley More Love Hours Shirt', 'image' => 'supremeblackXMikeKelleyMoreLoveHoursShirt.jpeg',
                 'price' => 11115000, 'topHot' => rand(0, 1),
-                'detail' => 'Chiếc áo Rayon Supreme x Mike Kelley "More Love Hours" là sự hợp tác giới hạn giữa gã khổng lồ thời trang đường phố NYC và nghệ sĩ 
-                người Mỹ nổi tiếng với những tác phẩm trừu tượng. Chiếc áo sơ mi rayon thời tiết ấm áp, với kết cấu thoáng mát và phong cách dễ mặc, là tác phẩm 
-                nghệ thuật sống động của Kelly, bao gồm các nhân vật thú nhồi bông khác nhau trong một bản in toàn bộ. Chi tiết nút trắng ở mặt trước của áo và một túi 
-                ngực duy nhất tạo nên nét hoàn thiện cho chiếc áo sơ mi tay ngắn. Áo Rayon Supreme x Mike Kelley "More Love Hours" được phát hành trong mùa Thu / 
-                Đông 2018 của Supreme'
+                'detail' => 'Chiếc áo \'Rayon Supreme x Mike Kelley \' là sự hợp tác giới hạn giữa gã khổng lồ thời trang đường phố NYC và nghệ sĩ người Mỹ nổi tiếng với những tác phẩm trừu tượng. Chiếc áo sơ mi rayon thời tiết ấm áp, với kết cấu thoáng mát và phong cách dễ mặc'
             ],
             [
                 'typeID' => 1, 'brandID' => 3, 'productName' => 'SupremeObamaShirt', 'image' => 'Supreme Obama Shirt.jpg',
                 'price' => 9800500, 'topHot' => rand(0, 1),
-                'detail' => 'Tổng thống của bạn là ai? Hãy thể hiện lòng trung thành của bạn với Tổng thống thứ 44 của Hoa Kỳ với chiếc Áo sơ mi Obama cotton màu xanh 
-                lá cây này của Supreme. Có bạn có thể. Có hình in toàn bộ, hình in ảnh, cổ áo nhọn, cài nút phía trước, tay áo ngắn và túi trước ngực'
+                'detail' => 'Tổng thống của bạn là ai? Hãy thể hiện lòng trung thành của bạn với Tổng thống thứ 44 của Hoa Kỳ với chiếc Áo sơ mi Obama cotton màu xanh lá cây này của Supreme. Có bạn có thể. Có hình in toàn bộ, hình in ảnh, cổ áo nhọn, cài nút phía trước, tay áo ngắn và túi trước ngực'
             ],
             [
                 'typeID' => 1, 'brandID' => 3, 'productName' => 'Supreme Rose Buffalo Plaid Shirt', 'image' => 'SupremeRoseBuffaloPlaidShirt.jpg',
                 'price' => 6204000, 'topHot' => rand(0, 1),
-                'detail' => 'Áo sơ mi sọc ca rô trâu bông hồng bông màu xanh hoàng gia của hãng tối cao có cổ áo cổ điển, cài cúc phía trước, tay áo dài, khuy cài và viền cong. Những phong cách này được cung cấp bởi một thị trường giày thể thao và trang phục dạo phố cao cấp. Chỉ dự trữ giày dép và quần áo được tìm kiếm nhiều nhất, 
-                họ cung cấp và tuyển chọn một số mặt hàng khó tìm nhất từ khắp nơi trên thế giới'
+                'detail' => 'Áo sơ mi sọc ca rô trâu bông hồng bông màu xanh hoàng gia của hãng tối cao có cổ áo cổ điển, cài cúc phía trước, tay áo dài, khuy cài và viền cong. Những phong cách này được cung cấp bởi một thị trường giày thể thao và trang phục dạo phố cao cấp. Chỉ dự trữ giày dép và quần áo được tìm kiếm nhiều nhất, họ cung cấp và tuyển chọn một số mặt hàng khó tìm nhất từ khắp nơi trên thế giới'
             ],
             [
                 'typeID' => 1, 'brandID' => 3, 'productName' => 'Supreme x Comme des Garçons Graphic Button Up Shirt', 'image' => 'SupremexCommedesGarçonsGraphicButtonUpShirt.png',
                 'price' => 9778000, 'topHot' => rand(0, 1),
-                'detail' => 'Comme des Garçons x Supreme Graphic Button-Up Shirt là một món đồ trang nhã hoặc giản dị tập hợp những lý tưởng của hai gã khổng 
-                lồ thời trang dạo phố. Mặt trước của chiếc áo được dán một tấm ảnh ghép của thành phố New York. Thể hiện niềm tự hào quê hương của Supreme, 
-                các hình ảnh bao gồm Tượng Nữ thần Tự do, đường chân trời của NYC, các toa tàu điện ngầm và các biển hiệu neon NYC. Ở mặt sau "Comme des Garçons - 
-                Áo sơ mi tối cao" được in bằng phông chữ màu trắng và được đặt trên nền đen đồng nhất -- Sản xuất tại Pháp '
+                'detail' => 'Comme des Garçons x Supreme Graphic Button-Up Shirt là một món đồ trang nhã hoặc giản dị tập hợp những lý tưởng của hai gã khổng lồ thời trang dạo phố. -- Sản xuất tại Pháp '
             ],
             [
                 'typeID' => 1, 'brandID' => 3, 'productName' => 'Supreme CDG Harold Hunter baseball top', 'image' => 'SupremeCDGHaroldHunterbaseballtop.png',
@@ -590,9 +581,7 @@ class productSeeder extends Seeder
                 'price' => 1893000, 'topHot' => rand(0, 1),
                 'detail' => 'Supreme Bela Lugosi Tee dành cho những người hâm mộ ma cà rồng, những người đánh giá cao cơn sốt Gothic 
             nguyên bản bắt đầu từ gần 100 năm trước. Hình ảnh ở giữa ngực có hình ảnh nổi tiếng trong bộ phim kinh điển năm 1931 "Dracula", 
-            trong đó nam diễn viên Bela Lugosi, đóng vai bá tước chính hiệu, chuẩn bị cắn vào cổ một người phụ nữ. Được làm từ cotton, 
-            áo thun tay ngắn này có màu đỏ đặc. Lugosi, tên khai sinh là Béla Ferenc Dezső Blaskó, là một diễn viên người Mỹ gốc Hungary nổi 
-            tiếng với vai Bá tước Dracula trong phim -- Sản xuất tại Hoa Kỳ '
+            trong đó nam diễn viên Bela Lugosi.-- Sản xuất tại Hoa Kỳ '
             ],
             [
                 'typeID' => 2, 'brandID' => 3, 'productName' => 'Supreme Winter Print T-shirt', 'image' => 'SupremeWinterPrintT-shirt.png',
@@ -648,10 +637,7 @@ class productSeeder extends Seeder
             [
                 'typeID' => 3, 'brandID' => 3, 'productName' => 'Supreme Patchwork Anorak Jacket', 'image' => 'SupremePatchworkAnorakJacket.png',
                 'price' => 61653000, 'topHot' => rand(0, 1),
-                'detail' => 'Những phong cách này được cung cấp bởi một thị trường giày thể thao và trang phục dạo phố cao cấp. Chỉ dự trữ giày dép 
-                và quần áo được tìm kiếm nhiều nhất, họ cung cấp và tuyển chọn một số mặt hàng khó tìm nhất từ khắp nơi trên thế giới. Đắm mình trong văn 
-                hóa trượt ván của New York và tinh thần vô tư của tuổi trẻ với những sản phẩm mới nhất này từ thương hiệu thời trang dạo phố mang tính biểu 
-                tượng Supreme. Chiếc áo khoác anorak chắp vá bằng cotton nhiều màu này có mũ trùm đầu bằng dây rút, khóa zip phía trước, túi phía trước được 
+                'detail' => 'Chiếc áo khoác anorak chắp vá bằng cotton nhiều màu này có mũ trùm đầu bằng dây rút, khóa zip phía trước, túi phía trước được 
                 giấu kín, logo trước ngực, túi trước và tay áo dài'
             ],
             //Supreme - Dép (3-4)
@@ -701,12 +687,7 @@ class productSeeder extends Seeder
                 'price' => 31357000, 'topHot' => rand(0, 1),
                 'detail' => 'Được thiết kế bởi Wilson Smith, được mặc bởi Scottie Pippen, Nike Air More Uptempo - 
                 được biết đến với thương hiệu “AIR” lớn ở hai bên và giữa - là một trong những đôi giày thể thao bóng 
-                rổ táo bạo nhất từ trước đến nay. Thương hiệu thời trang dạo phố mang tính biểu tượng Supreme cũng được 
-                tôn kính theo cách tương tự, nhờ hơn 20 năm cung cấp hàng hóa phù hợp với văn hóa được tạo ra trong nhà và 
-                thông qua các hoạt động hợp tác. Các từ xung đột trong ví dụ thứ hai năm 2017 này - một bản cộng tác giày thể 
-                thao được gọi là “Suptempo”. Ngôi nhà mà James Jebbia xây dựng đã đặt vòng quay của nó trên Air More Uptempo, 
-                thay thế thông điệp “AIR” bằng “SUPREME” trong chữ in đậm được cấp bằng sáng chế bao quanh gót chân. Tùy chọn 
-                Varsity Red này có phần trên bằng da lộn sôi động. Chữ Tối cao có màu trắng với ánh sáng trong bóng tối; midsole 
+                rổ táo bạo nhất từ trước đến nay. Tùy chọn Varsity Red này có phần trên bằng da lộn sôi động. Chữ Tối cao có màu trắng với ánh sáng trong bóng tối; midsole 
                 cũng được tạo điểm nhấn bởi Varsity Red và trắng. Các đầu ren có các từ "Thế giới" và "Nổi tiếng".'
             ],
             [
@@ -800,8 +781,7 @@ class productSeeder extends Seeder
                 'price' => 4313000, 'topHot' => rand(0, 1),
                 'detail' => 'Được cung cấp bởi một thị trường giày thể thao hàng đầu giải quyết các loại giày không mặc, đã bán hết, theo nhu cầu hiếm. 
                 Mỗi sản phẩm được kiểm tra nghiêm ngặt bởi các chuyên gia giàu kinh nghiệm đảm bảo tính xác thực. 
-                Tay phải màu đỏ, chân trái màu vàng. Với những chiếc quần short pique bằng vải cotton nhiều màu này từ Supreme, 
-                bạn có thể thể hiện tình yêu của mình với trò chơi yêu thích thời thơ ấu của mình. Đừng để bị xoắn. Có phần nhô cao, 
+                Tay phải màu đỏ, chân trái màu vàng. Với những chiếc quần short pique bằng vải cotton nhiều màu này từ Supreme. Đừng để bị xoắn. Có phần nhô cao, 
                 dây thắt lưng co giãn, túi bên, túi sau, thiết kế khối màu ốp và vừa vặn thoải mái.'
             ],
             [
@@ -861,91 +841,91 @@ class productSeeder extends Seeder
             //Hermes  - Áo sơ mi (4-1)
             [
                 'typeID' => 1, 'brandID' => 4, 'productName' => 'Hermes Micro Shirt', 'image' => 'HermesMicroShirt.jpg',
-                'price' =>23651000, 'topHot' => rand(0, 1),
+                'price' => 23651000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo sơ mi vải cotton đan chéo (100% cotton) -- Mặt trước bên trái có thêu "Caleche" -- Cổ tay áo, cổ áo 
                 trong và nút hướng ra ngoài được buộc chặt bằng nút ngọc trai -- Sản xuất tại Pháp'
             ],
             [
                 'typeID' => 1, 'brandID' => 4, 'productName' => 'Hermes Shirt', 'image' => 'HermesShirt.jpg',
-                'price' =>27112000, 'topHot' => rand(0, 1),
+                'price' => 27112000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo sơ mi cotton đan chéo (100% cotton) -- Mặt trước bên trái có thêu "Caleche" -- Tay áo và chốt cài phía 
                 trước được buộc chặt bằng các nút khảm xà cừ -- Sản xuất tại Pháp'
             ],
             [
                 'typeID' => 1, 'brandID' => 4, 'productName' => 'Hermes Jacket Shirt With Swing Collar', 'image' => 'HermesJacketShirtWithSwingCollar.jpg',
-                'price' =>25958000, 'topHot' => rand(0, 1),
+                'price' => 25958000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo khoác sơ mi tay ngắn bằng vải bông và in "Rayures rythmees fil a fil" với cổ bẻ và phần dưới có gân (100% cotton) -- 
                 Sản xuất tại Pháp -- Chiều dài: 26,8 "| Kích thước được chỉ ra tương ứng với kích thước 39, chúng có thể thay đổi +/- 0,4" tùy thuộc vào kích thước. '
             ],
             [
                 'typeID' => 1, 'brandID' => 4, 'productName' => 'Hermes Polo Shirt With Striped Ribbon Detail', 'image' => 'HermesPoloShirtWithStripedRibbonDetail.jpg',
-                'price' =>13614000, 'topHot' => rand(0, 1),
+                'price' => 13614000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo sơ mi polo bằng vải cotton trơn với cổ áo thẳng linh hoạt và chi tiết ruy băng sọc (100% cotton) -- Sản xuất tại Pháp -- 
                 Chiều dài: 29,1 "| Các kích thước được chỉ ra tương ứng với kích thước 39, chúng có thể thay đổi +/- 0,4" tùy thuộc vào kích thước.'
             ],
             [
                 'typeID' => 1, 'brandID' => 4, 'productName' => 'Hermes Competition Shirt', 'image' => 'HermesCompetitionShirt.jpg',
-                'price' =>12229000, 'topHot' => rand(0, 1),
+                'price' => 12229000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo dài tay thi đấu -- Cắt thẳng -- Vải mềm và thoáng khí -- Cổ áo và cổ tay áo bằng vải bông có nút đinh hình yên ngựa 
                 "Hermes Sellier" -- (73% cotton, 24% polyamide, 3% elasthane)'
             ],
             //Hermes  - Áo thun (4-2)
             [
                 'typeID' => 2, 'brandID' => 4, 'productName' => 'Hermes Micro Embroidered Pocket T-Shirt', 'image' => 'HermesMicroEmbroideredPocketT-Shirt.jpg',
-                'price' =>11999000, 'topHot' => rand(0, 1),
+                'price' => 11999000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo thun siêu nhỏ in áo thun cotton trơn (100% cotton) -- Cổ áo trang trí sườn -- Túi có thêu "Clochette" -- Sản xuất tại Pháp'
             ],
             [
                 'typeID' => 2, 'brandID' => 4, 'productName' => 'Hermes Bicolor Jogging T-Shirt', 'image' => 'HermesBicolorJoggingTShirt.jpg',
-                'price' =>10499000, 'topHot' => rand(0, 1),
+                'price' => 10499000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo thun tay ngắn cổ thuyền chạy bộ bằng cotton với các chi tiết Toilovent trên vai và tay áo (100% cotton) -- Sản xuất tại Ý'
             ],
             [
                 'typeID' => 2, 'brandID' => 4, 'productName' => 'Hermes Labyrinthe T-Shirt', 'image' => 'HermesLabyrintheT-Shirt.jpg',
-                'price' =>27112000, 'topHot' => rand(0, 1),
+                'price' => 27112000, 'topHot' => rand(0, 1),
                 'detail' => ' Áo thun cổ thuyền tay ngắn bằng vải bông crepe và in "Labyrinthe" với một sợi chỉ khổ 18 (100% cotton) -- Sản xuất tại Ý'
             ],
             [
                 'typeID' => 2, 'brandID' => 4, 'productName' => 'Herems Maillons T-Shirt', 'image' => 'HeremsMaillonsT-Shirt.jpg',
-                'price' =>28265000, 'topHot' => rand(0, 1),
+                'price' => 28265000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo thun cổ thuyền tay ngắn bằng vải jacquard, len crepe thập niên 120 và in "Maillons" với một sợi chỉ khổ 18 -- 
                 Một minh họa trang nhã về các liên kết Chaine d\'Ancre mang tính biểu tượng (100% len) -- Sản xuất tại Ý '
             ],
             [
                 'typeID' => 2, 'brandID' => 4, 'productName' => 'Hermes Rayures Mix And Match T-Shirt', 'image' => 'HermesRayuresMixAndMatchT-Shirt.jpg',
-                'price' =>22382000, 'topHot' => rand(0, 1),
+                'price' => 22382000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo thun cổ thuyền tay ngắn bằng vải bông crepe và in "Rayures Mix and match" với một sợi chỉ khổ 18 (100% cotton) -- Sản xuất tại Ý '
             ],
             //Hermes  - Áo khoát (4-3)
             [
                 'typeID' => 3, 'brandID' => 4, 'productName' => 'Hermes Rayures Et Maillons Esquisses Straight Cut Jacket', 'image' => 'HermesRayuresEtMaillonsEsquissesStraightCutJacket.jpg',
-                'price' =>72105000, 'topHot' => rand(0, 1),
+                'price' => 72105000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo khoác cắt thẳng bằng cotton và in "Rayures maillons esquisses" với cổ áo cài cúc, khóa kéo hai chiều và túi bên hông có cúc và khóa kéo (100% cotton) -- Sản xuất tại Pháp -- 
                 Chiều dài lưng: 25,6 "| Kích thước được chỉ ra tương ứng với kích thước 48, chúng có thể thay đổi +/- 0,4" tùy thuộc vào kích thước. '
             ],
             [
                 'typeID' => 3, 'brandID' => 4, 'productName' => 'Hermes Reversible Rib Trim Jacket', 'image' => 'HermesReversibleRibTrimJacket.jpg',
-                'price' =>93448000, 'topHot' => rand(0, 1),
+                'price' => 93448000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo khoác có viền có thể đảo ngược bằng vải cotton, in chữ "Danse des chevaux" và Toilovent chống thấm nước với cổ áo và còng có 
                 viền, túi hai bên có khóa kéo và zip (80% nylon và 20% elastane) -- Sản xuất tại Pháp -- Chiều dài lưng: 25,6 "| Kích thước được chỉ ra tương ứng 
                 với kích thước 48, chúng có thể thay đổi +/- 0,4" tùy thuộc vào kích thước.'
             ],
             [
                 'typeID' => 3, 'brandID' => 4, 'productName' => 'Hermes Doudoune Courte', 'image' => 'HermesDoudouneCourte.jpg',
-                'price' =>145363000, 'topHot' => rand(0, 1),
+                'price' => 145363000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo khoác cưỡi ngựa bằng da hươu đã giặt (100% da hươu) -- Lớp lót với họa tiết "H passant" -- 
                 Dây chuyền mạ palladium -- Buộc chặt túi bằng zip mạ palladium -- Chốt phía trước ở giữa với các nút mạ palladium khắc 
                 "Clou de selle" và nút sừng phẳng -- Sản xuất tại Ý'
             ],
             [
                 'typeID' => 3, 'brandID' => 4, 'productName' => 'Hermes Sartorial Jacket', 'image' => 'HermesSartorialJacket.jpg',
-                'price' =>53069000, 'topHot' => rand(0, 1),
+                'price' => 53069000, 'topHot' => rand(0, 1),
                 'detail' => 'Áo khoác Sartorial vải lanh (100% vải lanh) -- Túi và lót túi phía trước bên trái bên trong bằng vải bông xương cá co giãn 
                 -- Túi có đường ống -- Chốt phía trước với các nút mạ palladium tráng men và nút sừng phẳng'
             ],
             [
                 'typeID' => 3, 'brandID' => 4, 'productName' => 'Hermes RayuresS erties 24 Twins Light Jacket', 'image' => 'HermesRayuresSerties24TwinsLightJacket.jpg',
-                'price' =>65183000, 'topHot' => rand(0, 1),
+                'price' => 65183000, 'topHot' => rand(0, 1),
                 'detail' => 'Jacket in cotton and "Rayures serties" print with notched collar, 2 horn buttons, 2 mesh pockets, one front pocket and 
                 contrasting fabric on the front closure (100% cotton) -- Made in Italy -- Back length: 30.3" | The dimensions indicated correspond to 
                 a size 50, they may vary by +/- 0.4" depending on the size'
@@ -953,92 +933,759 @@ class productSeeder extends Seeder
             //Hermes  - Dép (4-4)
             [
                 'typeID' => 4, 'brandID' => 4, 'productName' => 'Hermes Oran Sandal White', 'image' => 'HermesOranSandalWhite.jpg',
-                'price' =>14537000, 'topHot' => rand(0, 1),
+                'price' => 14537000, 'topHot' => rand(0, 1),
                 'detail' => 'Sandal in Box da bê với đường cắt chữ "H" mang tính biểu tượng -- Một phong cách mang tính biểu tượng của Hermes, 
                 hình bóng này là một phần thiết yếu trong mọi tủ quần áo'
             ],
             [
                 'typeID' => 4, 'brandID' => 4, 'productName' => 'Hermes Legend Sandal', 'image' => 'HermesLegendSandal.jpg',
-                'price' =>19844000, 'topHot' => rand(0, 1),
+                'price' => 19844000, 'topHot' => rand(0, 1),
                 'detail' => 'Sandal cao gót bằng da bê với đường cắt chữ "H" mang tính biểu tượng và dây đeo mảnh ở mắt cá chân -- 
                 Một phong cách mang tính biểu tượng của Hermes, hình bóng này là một phần thiết yếu trong mọi tủ quần áo'
             ],
             [
                 'typeID' => 4, 'brandID' => 4, 'productName' => 'Hermes Santorini Sandal', 'image' => 'HermesSantoriniSandal.jpg',
-                'price' =>18228000, 'topHot' => rand(0, 1),
+                'price' => 18228000, 'topHot' => rand(0, 1),
                 'detail' => 'Sandal da bê với chi tiết viền thô, chi tiết cắt chữ "H" và dây đeo mảnh ở mắt cá chân -- Một phong cách sang trọng 
                 và giản dị hoàn hảo để sử dụng hàng ngày'
             ],
             [
                 'typeID' => 4, 'brandID' => 4, 'productName' => 'Hermes Avenue Sandal', 'image' => 'HermesAvenueSandal.jpg',
-                'price' =>24228000, 'topHot' => rand(0, 1),
+                'price' => 24228000, 'topHot' => rand(0, 1),
                 'detail' => 'Sandal bằng da bê với khóa Kelly mạ palladium mang tính biểu tượng --  Đối với sự thanh lịch hàng ngày'
             ],
             [
                 'typeID' => 4, 'brandID' => 4, 'productName' => 'Hermes Premiere 70 Sandal', 'image' => 'HermesPremiere70Sandal.jpg',
-                'price' =>27112000, 'topHot' => rand(0, 1),
+                'price' => 27112000, 'topHot' => rand(0, 1),
                 'detail' => 'Sandal mang tính biểu tượng bằng da lộn và sa tanh với các chi tiết pha lê và dây đeo mắt cá chân mỏng -- Sản xuất tại Ý'
             ],
             //Hermes  - Giày (4-5)
             [
                 'typeID' => 5, 'brandID' => 4, 'productName' => 'Hermes Boomerang Sneaker', 'image' => 'HermesBoomerangSneaker.jpg',
-                'price' =>20305000, 'topHot' => rand(0, 1),
+                'price' => 20305000, 'topHot' => rand(0, 1),
                 'detail' => 'Giày sneaker tối giản bằng da bê Epsom in với đế màu cam mang tính biểu tượng -- Một cái nhìn hiện đại và hợp thời trang -- 
                 Sản xuất tại Ý'
             ],
             [
                 'typeID' => 5, 'brandID' => 4, 'productName' => 'Hermes Crew Sneaker', 'image' => 'HermesCrewSneaker.jpg',
-                'price' =>18228000, 'topHot' => rand(0, 1),
+                'price' => 18228000, 'topHot' => rand(0, 1),
                 'detail' => 'Giày thể thao bằng da dê đan và da lộn với đế cao su đặc trưng -- Một cái nhìn sang trọng và thể thao'
             ],
             [
                 'typeID' => 5, 'brandID' => 4, 'productName' => 'Hermes Avantage Sneaker', 'image' => 'HermesAvantageSneaker.jpg',
-                'price' =>18228000, 'topHot' => rand(0, 1),
+                'price' => 18228000, 'topHot' => rand(0, 1),
                 'detail' => 'Giày thể thao bằng da bê với họa tiết "H en Biais" tương phản -- Một thiết kế đồ họa và kiểu dáng đẹp -- Sản xuất tại Ý'
             ],
             [
                 'typeID' => 5, 'brandID' => 4, 'productName' => 'Hermes Addict Sneaker', 'image' => 'HermesAddictSneaker.jpg',
-                'price' =>19613000, 'topHot' => rand(0, 1),
+                'price' => 19613000, 'topHot' => rand(0, 1),
                 'detail' => 'Giày thể thao đan hai màu với ảo ảnh quang học -- Bản diễn giải lại phong cách cổ điển -- Sản xuất tại Ý'
             ],
             [
                 'typeID' => 5, 'brandID' => 4, 'productName' => 'Hermes Alessandro Loafer', 'image' => 'HermesAlessandroLoafer.jpg',
-                'price' =>20305000, 'topHot' => rand(0, 1),
+                'price' => 20305000, 'topHot' => rand(0, 1),
                 'detail' => 'Giày lười lái xe bằng da bò lộn với dây da bện và khóa "Chaine d\'Ancre" -- Một chiếc giày lười kiểu hải lý lý tưởng cho đất liền 
                 hoặc biển'
             ],
             //Hermes  - Quần dài (4-6)
             [
                 'typeID' => 6, 'brandID' => 4, 'productName' => 'Hermes Esprit Jogging H Pants', 'image' => 'HermesEspritJoggingHPants.jpg',
-                'price' =>27689000, 'topHot' => rand(0, 1),
+                'price' => 27689000, 'topHot' => rand(0, 1),
                 'detail' => 'Quần chạy bộ Esprit chất liệu len "Maille Voyage" với họa tiết chữ "H" trơn (len nguyên chất 100%) -- 
                 Thắt lưng và mắt cá chân có viền gân -- Thắt lưng có dây rút bằng len với các chi tiết chạm khắc mạ palladium'
             ],
             [
                 'typeID' => 6, 'brandID' => 4, 'productName' => 'Hermes Chino Pants', 'image' => 'HermesChinoPants.jpg',
-                'price' =>33457000, 'topHot' => rand(0, 1),
+                'price' => 33457000, 'topHot' => rand(0, 1),
                 'detail' => 'Quần ống loe chất liệu cotton co giãn kép (96% cotton, 4% elastane) -- 
                 Túi, lót trước và sau bằng bông xương cá co giãn -- Thắt lưng bên trong bằng nút sừng -- 
                 Chốt phía trước bằng zip mạ palladium -- Sản xuất tại Pháp'
             ],
             [
                 'typeID' => 6, 'brandID' => 4, 'productName' => 'Hermes Carrot Pants', 'image' => 'HermesCarrotPants.jpg',
-                'price' =>39225000, 'topHot' => rand(0, 1),
+                'price' => 39225000, 'topHot' => rand(0, 1),
                 'detail' => 'Quần cà rốt lưng cao bằng len nhiệt đới (len nguyên chất 100%) -- Chốt mặt trước bằng nút còi 
                 -- Chốt lưng bằng khóa mạ palladium -- Sản xuất tại Pháp'
             ],
             [
                 'typeID' => 6, 'brandID' => 4, 'productName' => 'Hermes Saint Germain Fitted Pants', 'image' => 'HermesSaintGermainFittedPants.jpg',
-                'price' =>14537000, 'topHot' => rand(0, 1),
+                'price' => 14537000, 'topHot' => rand(0, 1),
                 'detail' => 'Quần được may bằng vải chéo cotton co giãn (97% cotton và 3% elastane) -- Sản xuất tại Ý -- Độ mở của chân: 7,5 
                 "| Các kích thước được chỉ ra tương ứng với cỡ 42, chúng có thể thay đổi +/- 0,4" tùy thuộc vào kích thước'
             ],
             [
                 'typeID' => 6, 'brandID' => 4, 'productName' => 'Hermes Poste Et Cavalerie-Jogging Pants', 'image' => 'HermesPosteEtCavalerie-JoggingPants.jpg',
-                'price' =>25381000, 'topHot' => rand(0, 1),
+                'price' => 25381000, 'topHot' => rand(0, 1),
                 'detail' => 'Quần chạy bộ bằng vải thô in "Poste et Cavalerie" (100% cotton) -- Túi trong áo bông -- Dây thắt lưng trang trí sườn -- Dây thắt lưng có dây bện -- 
-                Dây có chi tiết mạ palladium -- Sản xuất tại Pháp'
+                Dây có chi tiết mạ palladium -- Sản xuất tại Pháp '
             ],
+            //Hermes  - Quần jean (4-7)
+            [
+                'typeID' => 7, 'brandID' => 4, 'productName' => 'Hermes Denim Jeans', 'image' => 'HermesDenimJeans.jpg',
+                'price' => 33457000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần jean denim bằng vải cotton với họa tiết "Chaine d\'Ancre\' tương phản (100% cotton) -- 
+                Túi lót bằng bông xương cá co giãn -- Hai túi trước và túi được vá với đinh tán mạ palladium khắc \'Clou de selle\' 
+                và hai túi sau -- Cạp lưng bằng da nổi \'Hermes Paris\' ở mặt phải -- Chốt phía trước bằng nút mạ palladium khắc chữ \'Clou de selle\' 
+                -- Sản xuất tại Ý '
+            ],
+            [
+                'typeID' => 7, 'brandID' => 4, 'productName' => 'Hermes Pantalon Court', 'image' => 'HermesPantalonCourt.jpg',
+                'price' => 37356000, 'topHot' => rand(0, 1),
+                'detail' => '100% cotton -- Size: FR36, FR37, FR38  '
+            ],
+            [
+                'typeID' => 7, 'brandID' => 4, 'productName' => 'Hermes Denim Street Style Plain Long Jeans', 'image' => 'HermesDenimStreetStylePlainLongJeans.jpg',
+                'price' => 37610000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần jean từ HERMES, Phong cách đường phố, Trơn, Dài '
+            ],
+            [
+                'typeID' => 7, 'brandID' => 4, 'productName' => 'Hermes Pocket Pants', 'image' => 'HermesPocketPants.jpg',
+                'price' => 38302000, 'topHot' => rand(0, 1),
+                'detail' => '100% cotton -- Size: 36, 38, 40, 42'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 4, 'productName' => 'Hermes Jeans Denim Shorts', 'image' => 'HermesJeansDenimShorts.jpg',
+                'price' => 37864000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần short denim bằng vải cotton với họa tiết tương phản "chaine d\'ancre\' (100% cotton) -- lót túi bằng vải bông xương cá kéo dài -- 
+                hai túi trước và túi có miếng vá với đinh tán mạ palladium khắc "clou de selle" và hai túi sau -- dây thắt lưng sau bằng da dập nổi \'hermes paris\' 
+                ở phía bên phải -- khóa cài phía trước bằng nút mạ palladium khắc \'clou de selle\' -- khóa phía trước bằng zip mạ palladium được làm tại Ý'
+            ],
+            //Hermes  - Quần short (4-8)
+            [
+                'typeID' => 8, 'brandID' => 4, 'productName' => 'Hermes Circuit 24 Faubourg Beach Shorts', 'image' => 'HermesCircuit24FaubourgBeachShorts.jpg',
+                'price' => 16844000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần đùi đi biển in hình "Circuit 24 Faubourg" in polyamide (100% polyamide) -- Dây thắt lưng có dây co giãn -- Chi tiết dây cao su 
+                -- Ổ cắm dây với khoen mạ palladium và chi tiết cao su tròn -- Dây thắt lưng có thun bên trong -- Túi sau với aquazip -- Sản xuất tại Ý  '
+            ],
+            [
+                'typeID' => 8, 'brandID' => 4, 'productName' => 'Hermes Nagoya Shorts With Double Pocket', 'image' => 'HermesNagoyaShortsWithDoublePocket.jpg',
+                'price' => 17075000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần đùi cắt thẳng bằng mũi khoan cotton không thấm nước với túi kép bù đắp và 2 túi lưới sau cài cúc (100% cotton) 
+                -- Sản xuất tại Ý -- Chiều dài: 19,3 "| Độ mở chân: 11,4" | Tăng: 10,8 "'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 4, 'productName' => 'Hermes Shorts', 'image' => 'HermesShorts.jpg',
+                'price' => 36341000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần short bằng vải chéo cotton co giãn kép (96% cotton, 4% elastane) -- Túi và lót lưng bằng vải bông xương cá co giãn 
+                -- Nắp túi bên hông bằng chốt khóa mạ palladium khắc chữ "Clou de selle" -- Chốt lưng bằng khóa mạ palladium -- Sản xuất tại Ý'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 4, 'productName' => 'Hermes Bicolor Ribbed Jogging Shorts', 'image' => 'HermesBicolorRibbedJoggingShorts.jpg',
+                'price' => 11537000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần đùi chạy bộ có gân hai màu bằng cotton với các chi tiết Toilovent ở hai bên (100% cotton) -- Sản xuất tại Ý '
+            ],
+            [
+                'typeID' => 8, 'brandID' => 4, 'productName' => 'Hermes Bicolor Ribbed Jogging Shorts Black', 'image' => 'HermesBicolorRibbedJoggingShortsBlack.jpg',
+                'price' => 11537000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần đùi chạy bộ có gân hai màu bằng cotton với các chi tiết Toilovent ở hai bên (100% cotton) -- Sản xuất tại Ý'
+            ],
+            //Hermes  - Nón (4-9)
+            [
+                'typeID' => 9, 'brandID' => 4, 'productName' => 'Hermes Hood', 'image' => 'HermesHood.jpg',
+                'price' => 12229000, 'topHot' => rand(0, 1),
+                'detail' => 'Mỗi miếng petit h là duy nhất: chất liệu, hoa văn và màu sắc của sản phẩm của bạn sẽ là một điều bất ngờ 
+                -- Mũ trùm đầu chống thấm nước bằng polyamide (59%), cotton (41%) và tơ tằm (100% lụa) -- Máy hút mùi có túi đựng -- Cỡ phổ thông.'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 4, 'productName' => 'Hermes Nevada Hello Mr Farrier Cap', 'image' => 'HermesNevadaHelloMrFarrierCap.jpg',
+                'price' => 10499000, 'topHot' => rand(0, 1),
+                'detail' => 'Nắp bằng vải cotton co giãn với miếng dán da cừu "Hello Mr Farrier" -- Sản xuất tại Ý 
+                -- Chiều cao vương miện: 6,7 "| Chiều dài tấm che: 2,8"'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 4, 'productName' => 'Hermes Miles Cap', 'image' => 'HermesMilesCap.jpg',
+                'price' => 21689000, 'topHot' => rand(0, 1),
+                'detail' => 'Mũ bằng vải lanh đã giặt với tấm che mặt bằng da bê Swift khâu yên ngựa và thêu chữ "H Droit". 
+                Bạn có thể tìm thấy một dải điều chỉnh bằng da bê Swift với khóa Etriviere ở phần phía sau -- Sản xuất tại Pháp 
+                -- Chiều cao vương miện: 6,7 "| Chiều dài tấm che: 2,8\"'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 4, 'productName' => 'Hermes Petit Chalutier BucketHat', 'image' => 'HermesPetitChalutierBucketHat.jpg',
+                'price' => 8422000, 'topHot' => rand(0, 1),
+                'detail' => 'Mũ xô bằng vải canvas có in "Petit Chalutier" (58% cotton và 42% linen) -- In phun ở Ý -- Sản xuất tại Pháp -- Kích thước 52 '
+            ],
+            [
+                'typeID' => 9, 'brandID' => 4, 'productName' => 'Hermes Riley Sport Cap', 'image' => 'HermesRileySportCap.jpg',
+                'price' => 8422000, 'topHot' => rand(0, 1),
+                'detail' => 'Nắp bằng gabardine kỹ thuật chống nước với đàn hồi sọc hai màu và chi tiết mạ palladium Clou de Selle -- Sản xuất tại Pháp -- Chiều cao vương miện: 6,7 "| Chiều dài tấm che: 2,8" '
+            ]
+        ]);
+        //Calvin klein
+        DB::table('products')->insert([
+            //Calvin klein  - Áo sơ mi (5-2)
+            [
+                'typeID' => 2, 'brandID' => 5, 'productName' => 'TONAL LOGO SLIM POLO SHIRT', 'image' => 'TONAL LOGO SLIM POLO SHIRT.jpg',
+                'price' => 790000, 'topHot' => rand(0, 1),
+                'detail' => 'This polo shirt from Calvin Klein Jeans is made from 100% cotton. It is cut in a slim fit, with a pointed collar, 
+                and a 2-button placket with a tonal embroidered logo.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 5, 'productName' => 'URBAN SKATER BOX PRINT TEE', 'image' => 'URBAN SKATER BOX PRINT TEE.jpg',
+                'price' => 650000, 'topHot' => rand(0, 1),
+                'detail' => 'From the Collection of URBAN SKATE. Cut to a regular fit, this cotton blend tee from Calvin Klein Jeans feature a 
+                photographic skater box print at the chest. Finished with an updated monogram print at the back.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 5, 'productName' => 'TONAL SPRAY PRINT LOGO TEE', 'image' => 'TONAL SPRAY PRINT LOGO TEE.jpg',
+                'price' => 590000, 'topHot' => rand(0, 1),
+                'detail' => 'From the Collection of HYBRID. A subtle spray print adds an urban touch to this cotton stretch tee 
+                from Calvin Klein Jeans. It is cut to a slim fit, featuring a classic logo print across the chest.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 5, 'productName' => 'ILLUMINATED CK LOGO TEE', 'image' => 'ILLUMINATED CK LOGO TEE.jpg',
+                'price' => 590000, 'topHot' => rand(0, 1),
+                'detail' => 'From the Collection of REFLECTION. Cut to a regular fit, this cotton tee from Calvin Klein Jeans 
+                feature an illuminated logo print at the front for an elevated look.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 5, 'productName' => 'MONOGRAM CLEAR PRINT TEE', 'image' => 'MONOGRAM CLEAR PRINT TEE.jpg',
+                'price' => 590000, 'topHot' => rand(0, 1),
+                'detail' => 'Cut to a regular fit, this cotton tee from Calvin Klein Jeans feature a minimal logo 
+                print at the front and an oversized clear monogram print at the back.'
+            ],
+            //Calvin klein  - Áo khoác (5-3)
+            [
+                'typeID' => 3, 'brandID' => 5, 'productName' => 'RIB KNIT SWEATER WITH QUILT SLEEVES', 'image' => 'RIB KNIT SWEATER WITH QUILT SLEEVES.jpg',
+                'price' => 845000, 'topHot' => rand(0, 1),
+                'detail' => 'This season, the timeless rib-knit pullover sweater from Calvin Klein Jeans is updated with contemporary details. 
+                Made from a luxurious wool blend, the sweater is tailored with a crew neck, long quilted sleeves and a sleeve zip pocket.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 5, 'productName' => 'CHINESE NEW YEAR CAPSULE GRAPHIC SWEATSHIRT', 'image' => 'CHINESE NEW YEAR CAPSULE GRAPHIC SWEATSHIRT.jpg',
+                'price' => 763000, 'topHot' => rand(0, 1),
+                'detail' => 'From the Collection of CNY CAPSULE. Celebrate the Chinese New Year with this reinterpreted top from 
+                Calvin Klein Jeans. Cut to a regular fit, this cotton sweatshirt features a special print at the front in honor of 
+                the Year of the Ox, finished with an embroidered monogram on a cuff.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 5, 'productName' => 'GRAPHIC BACK PRINT SWEATER', 'image' => 'GRAPHIC BACK PRINT SWEATER.jpg',
+                'price' => 858000, 'topHot' => rand(0, 1),
+                'detail' => 'Crafted from a wool blend, this pullover sweater from Calvin Klein Jeans combines a timeless rib knit design and a 
+                playful graphic pattern at the back. finished with a statement logo patch at the back of the waist.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 5, 'productName' => 'TV SERVICE KNIT PULLOVER', 'image' => 'TV SERVICE KNIT PULLOVER.jpg',
+                'price' => 1156000, 'topHot' => rand(0, 1),
+                'detail' => 'A classic design with a playful twist, this 100% wool pullover jumper from ck Calvin Klein features TV-themed details on the front and back. 
+                It is tailored with a crew neck, long sleeves and a comfortable slouchy fit.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 5, 'productName' => 'KNIT MERINO TOP WITH NYLON POCKET', 'image' => 'KNIT MERINO TOP WITH NYLON POCKET.jpg',
+                'price' => 1316000, 'topHot' => rand(0, 1),
+                'detail' => 'Crafted from fine spun merino, this knit top from ck calvin klein has a stand up collar with adjustable drawstrings, 
+                front zip opening and long sleeves. the top also features a front pouch pocket and the top zip closure gusset made from nylon.
+                '
+            ],
+            //Calvin klein  - Quần Jean (5-7)
+            [
+                'typeID' => 7, 'brandID' => 5, 'productName' => 'INDIGO RINSE DENIM STRAIGHT LEG JEANS', 'image' => 'INDIGO RINSE DENIM STRAIGHT LEG JEANS.jpg',
+                'price' => 1590000, 'topHot' => rand(0, 1),
+                'detail' => 'Classic straight leg fit jeans in an indigo rinse wash. Made from traditional, organic, and recycled cotton blend denim for a sustainable design.'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 5, 'productName' => 'GARMENT-DYED CANVAS STRAIGHT LEG JEANS', 'image' => 'GARMENT-DYED CANVAS STRAIGHT LEG JEANS.jpg',
+                'price' => 1590000, 'topHot' => rand(0, 1),
+                'detail' => 'Classic straight leg fit jeans in a garment-dyed wash. Made from organic cotton blend canvas with custom logo detailing.'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 5, 'productName' => 'CKJ 017 THE BASICS BODY SKINNY JEANS', 'image' => 'CKJ 017 THE BASICS BODY SKINNY JEANS.jpg',
+                'price' => 1490000, 'topHot' => rand(0, 1),
+                'detail' => 'From the Collection of THE BASICS. Cut in a CKJ 017 fit, these men\'s jeans are designed in a mid-rise and skinny silhouette. 
+                They have a zip fly, 5-pocket style and body-defining details for a contoured fit. Finished with a monogram patch at the back waist.'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 5, 'productName' => 'CKJ 059 URBAN SKATE BODY TAPER JEANS', 'image' => 'CKJ 059 URBAN SKATE BODY TAPER JEANS.jpg    ',
+                'price' => 1290000, 'topHot' => rand(0, 1),
+                'detail' => 'From the Collection of URBAN SKATE. Cut in a CKJ 059 fit, these men\'s jeans are shaped in a low-rise and tapered silhouette, 
+                with body-defining details for a contoured fit. They have a zip fly, 5-pocket style and a monogram patch at the back.'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 5, 'productName' => 'CKJ 059 BODY TAPER JEANS', 'image' => 'CKJ 059 BODY TAPER JEANS.jpg',
+                'price' => 954000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed in a CKJ 059 fit, these men\'s jeans feature a low-rise waist and tapered legs with body-defining 
+                details for a contoured fit. The overlapping text prints add a contemporary twist to the look. They have a zip fly with a 
+                logo-engraved metal button, a 5-pocket style and an embroidered logo at the back.'
+            ],
+            //Calvin Klein - Quần Shorts (5-8)
+            [
+                'typeID' => 8, 'brandID' => 5, 'productName' => 'French Terry Drawstring Shorts', 'image' => 'French Terry Drawstring Shorts.jpg',
+                'price' => 695000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with a solid body and iconic logo embroidery, these updated shorts feature 
+                a plush cotton french terry for premium, all-day comfort. Finished with a drawstring waistband and 
+                pull-on styling, dual front slip pockets and a straight leg for a relaxed silhouette.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 5, 'productName' => 'Slim Fit Straight Leg Chino 9 Shorts', 'image' => 'Slim Fit Straight Leg Chino 9 Shorts.jpg',
+                'price' => 416000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with a solid body, these refined chino shorts feature a slim fit for an easy-to-style look. 
+                Designed with front slip pockets, back welt pockets, a signature woven logo tag and a 9" inseam.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 5, 'productName' => 'Logo Piping Drawstring Pull-On Shorts', 'image' => 'Logo Piping Drawstring Pull-On Shorts.jpg',
+                'price' => 416000, 'topHot' => rand(0, 1),
+                'detail' => 'Detailed with logo piping, these shorts feature a drawstring waistband and front slip pockets.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 5, 'productName' => 'French Terry Drawstring Shorts 3', 'image' => 'French Terry Drawstring Shorts 3.jpg',
+                'price' => 500000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with a solid body and iconic logo embroidery, these updated shorts feature a plush cotton french 
+                terry for premium, all-day comfort. Finished with a drawstring waistband and pull-on styling, dual front slip pockets and a 
+                straight leg for a relaxed silhouette.
+                '
+            ],
+            [
+                'typeID' => 8, 'brandID' => 5, 'productName' => 'Printed Drawstring Pull-On 7 Shorts', 'image' => 'Printed Drawstring Pull-On 7 Shorts.jpg',
+                'price' => 516000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with an allover abstract print, these modern shorts feature a drawstring waistband and a 7" inseam.'
+            ],
+            //Calvin Klein - Quần dài (5-6)
+            [
+                'typeID' => 6, 'brandID' => 5, 'productName' => 'Monogram Logo Drawstring Fleece Joggers', 'image' => 'Monogram Logo Drawstring Fleece Joggers.jpg',
+                'price' => 790000, 'topHot' => rand(0, 1),
+                'detail' => 'Crafted from a plush cotton knit blend for premium comfort, these on-trend sweatpants are 
+                made with a retro-inspired, iconic logo at the front. Finished with a drawstring waistband, front slip pockets and ribbed knit trim for a snug fit.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 5, 'productName' => 'Solid Pull-On Pants', 'image' => 'Solid Pull-On Pants.jpg',
+                'price' => 590000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with moisture wicking technology to help keep you cool and dry, these athletic joggers are made with a solid body and 
+                reflective accents. Features an elasticated waistband, front zip pockets, logo printing and elasticated cuffs.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 5, 'productName' => 'Modern Stretch Slim Fit Linen Blend Chino Pants', 'image' => 'Modern Stretch Slim Fit Linen Blend Chino Pants.jpg',
+                'price' => 590000, 'topHot' => rand(0, 1),
+                'detail' => 'Cut in a sleek slim fit, these essential summer chinos are made with a cotton linen stretch blend for effortless comfort. 
+                Designed with front slip pockets, back pockets with an embroidered CK logo and a solid look.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 5, 'productName' => 'Skinny Fit Black Suit Pants', 'image' => 'Skinny Fit Black Suit Pants.jpg',
+                'price' => 845000, 'topHot' => rand(0, 1),
+                'detail' => 'Made with four-season wool with natural stretch, these suit pants are made with a timeless solid black design, an extended 
+                tab closure, front slip pockets, back button pockets and skinny fit shaping.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 5, 'productName' => 'Move 365 Slim Fit Stretch Cotton 5-Pocket Pants', 'image' => 'Move 365 Slim Fit Stretch Cotton 5-Pocket Pants.jpg',
+                'price' => 954000, 'topHot' => rand(0, 1),
+                'detail' => 'Refined pants that move like your favorite sweats. Feature packed with innovative fabric technologies, these pants are part of our Move 365 collection, 
+                designed for life-on-the-go.'
+            ],
+            //Calvin Klein - Quần dài (5-1)
+            [
+                'typeID' => 1, 'brandID' => 5, 'productName' => 'Dot Print Logo Button-Down Long Sleeve Shirt', 'image' => 'Dot Print Logo Button-Down Long Sleeve Shirt.jpg',
+                'price' => 980000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with an allover dot print, this modern button-down shirt is made from lightweight cotton stretch blend with a sleek 
+                silhouette. Features a point collar with button-front closures, barrel cuffs, an embroidered CK logo at the chest and a shirttail hem.'
+            ],
+            [
+                'typeID' => 1, 'brandID' => 5, 'productName' => 'Liquid Touch Jacquard Dot Button-Down Shirt', 'image' => 'Liquid Touch Jacquard Dot Button-Down Shirt.jpg',
+                'price' => 880000, 'topHot' => rand(0, 1),
+                'detail' => 'Supremely soft with a cool feel and a lustrous finish, this signature Calvin Klein long sleeve shirt is crafted from liquid touch cotton for the ultimate 
+                in premium comfort. Features a jacquard dot design, a point collar, button-front closures and a shirttail hem for a refined, tailored look.'
+            ],
+            [
+                'typeID' => 1, 'brandID' => 5, 'productName' => 'Dot Print Logo Button-Down Long Sleeve Shirt 2', 'image' => 'Dot Print Logo Button-Down Long Sleeve Shirt 2.jpg',
+                'price' => 980000, 'topHot' => rand(0, 1),
+                'detail' => 'Designed with an allover dot print, this modern button-down shirt is made from lightweight cotton stretch blend with a sleek silhouette. Features a point 
+                collar with button-front closures, barrel cuffs, an embroidered CK logo at the chest and a shirttail hem.'
+            ],
+            [
+                'typeID' => 1, 'brandID' => 5, 'productName' => 'Liquid Touch Jacquard Dot Button-Down Shirt 2', 'image' => 'Liquid Touch Jacquard Dot Button-Down Shirt 2.jpg',
+                'price' => 880000, 'topHot' => rand(0, 1),
+                'detail' => 'Supremely soft with a cool feel and a lustrous finish, this signature Calvin Klein long sleeve shirt is 
+                crafted from liquid touch cotton for the ultimate in premium comfort. Features a jacquard dot design, a point collar, 
+                button-front closures and a shirttail hem for a refined, tailored look.'
+            ],
+            [
+                'typeID' => 1, 'brandID' => 5, 'productName' => 'Slim Fit Herringbone Point Collar Performance Non-Iron Dress Shirt', 'image' => 'Slim Fit Herringbone Point Collar Performance Non-Iron Dress Shirt.jpg',
+                'price' => 1590000, 'topHot' => rand(0, 1),
+                'detail' => 'This steel slim fit dress shirt features a solid herringbone design, a point collar and high-tech non-iron performance 
+                cotton fabric to wick away moisture for cool, dry comfort.'
+            ]
+        ]);
+        //Chanel
+        DB::table('products')->insert([
+            //Chanel - Áo Khoác (6-3)
+            [
+                'typeID' => 3, 'brandID' => 6, 'productName' => 'Face-patch oversized hoodie', 'image' => 'face-patch oversized hoodie.jpg',
+                'price' => 940000, 'topHot' => rand(0, 1),
+                'detail' => 'Let\'s face it, this will elevate your wardrobe. Made from blush pink organic cotton, 
+                this oversized hoodie from Acne Studios makes a charming addition to your comfy-wear rotation. Keep it cute.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 6, 'productName' => 'Face-patch hoodie', 'image' => 'face-patch hoodie.jpg',
+                'price' => 960000, 'topHot' => rand(0, 1),
+                'detail' => 'It\'s time to slip into something a little more comfortable. Like this face-patch hoodie from Acne Studios. Its laidback design makes it perfect for off-duty days.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 6, 'productName' => 'Face patch oversized sweatshirt', 'image' => 'face patch oversized sweatshirt.jpg',
+                'price' => 990000, 'topHot' => rand(0, 1),
+                'detail' => 'Acne Studios keeps it cool, casual and care-free with this powder pink oversized sweatshirt. Made from cotton and detailed with the signature 
+                face patch at the chest, this relaxed top masters the laid-back vibe you\'re going for.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 6, 'productName' => 'Oversized face-patch sweatshirt', 'image' => 'Oversized face-patch sweatshirt.jpg',
+                'price' => 980000, 'topHot' => rand(0, 1),
+                'detail' => 'How cool can you get? A lot more you\'re wearing this Acne Studios sweatshirt. 
+                Featuring a signature face patch at the chest, this piece will be your number one choice for a relaxed outfit.'
+            ],
+            //Chanel - Quần short (6-8)
+            [
+                'typeID' => 8, 'brandID' => 6, 'productName' => 'Chanel sports line pants', 'image' => 'Chanel sports line pants.jpg',
+                'price' => 940000, 'topHot' => rand(0, 1),
+                'detail' => 'Chanel’s Sport Line combines minimalist sophistication, practical materials and outstanding design. Case in point: these black cotton shorts. 
+                Featuring a front button fastening, belt loops, side pockets, contrasting white trims and a rear buttoned flap pocket.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 6, 'productName' => 'CC logo shorts', 'image' => 'CC logo shorts.jpg',
+                'price' => 863000, 'topHot' => rand(0, 1),
+                'detail' => 'Heiress of a neutrally refined palette and impeccable clean cuts, the maison 
+                Chanel persists in its reign as one of the best luxury brands for the sophisticated and elegant.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 6, 'productName' => '1995 loose-cut shorts', 'image' => '1995 loose-cut shorts.jpg',
+                'price' => 940000, 'topHot' => rand(0, 1),
+                'detail' => 'Chanel makes your summer easy with these navy blue wool tailored shorts. Now that you\'re reassured you\'ll feel fresh and look your best, you can go enjoy the warm days.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 6, 'productName' => 'Wide-legged denim shorts', 'image' => 'Wide-legged denim shorts.jpg',
+                'price' => 863000, 'topHot' => rand(0, 1),
+                'detail' => 'Casual days by the beach? These Chanel denim wide-legged shorts will take you there. With classic contrast 
+                stitching and diamond quilting on the rear patch pockets, this is The look to be at The place.'
+            ],
+            //Channel - Quần dài (6-6)
+            [
+                'typeID' => 6, 'brandID' => 6, 'productName' => '2010\'s Chanel trousers', 'image' => '2010\'s Chanel trousers.jpg',
+                'price' => 695000, 'topHot' => rand(0, 1),
+                'detail' => 'Chanel sports line pants.jpg - 940000 - Chanel’s Sport Line combines minimalist sophistication, practical 
+                materials and outstanding design. Case in point: these black cotton shorts. Featuring a front button fastening, belt loops, 
+                side pockets, contrasting white trims and a rear buttoned flap pocket.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 6, 'productName' => '2005 high-waisted flared trousers', 'image' => '2005 high-waisted flared trousers.jpg',
+                'price' => 795000, 'topHot' => rand(0, 1),
+                'detail' => 'Chanel makes your summer easy with these navy blue wool tailored shorts. Now that you\'re reassured you\'ll feel 
+                fresh and look your best, you can go enjoy the warm days.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 6, 'productName' => 'Sports Line zipped details cropped trousers', 'image' => 'Sports Line zipped details cropped trousers.jpg',
+                'price' => 995000, 'topHot' => rand(0, 1),
+                'detail' => 'Purchasing this item continues its narrative, so you can be confident that you’re making a POSITIVELY CONSCIOUS choice 
+                for the planet.Looking for an excuse to have an all-occasion Chanel closet? That\'s why the Sports Line is here. With a casual 
+                cropped length, these salamander orange cotton blend trousers showcase multiple zipped details.'
+            ]
+        ]);
+        //Nike
+        DB::table('products')->insert([
+            //Nike - Áo sơ mi (7 - 1)
+            [
+                'typeID' => 1, 'brandID' => 7, 'productName' => 'Men\'s Woven Skate Top ', 'image' => 'nigeria-woven-skate-top-xPksnd.jpg',
+                'price' =>1218000 , 'topHot' => rand(0, 1),
+                'detail' => 'Nigeria Top phối lại một chiếc áo có cúc cổ điển với hình in lấy cảm hứng từ bản sắc Super Eagle của đội. Nó được làm từ vải thấm mồ hôi để giúp bạn thoải mái từ sân cỏ này sang mặt đường khác.'
+            ],
+            //Nike - Áo thun (7 - 2)
+            [
+                'typeID' => 2, 'brandID' => 7, 'productName' => 'Áo thun thể thao Nike Tech Fleece màu đen', 'image' => '22434766-1-black.jpg',
+                'price' => 1031000, 'topHot' => rand(0, 1),
+                'detail' => 'Nike Tech Fleece vải. Áo ba lớp cotton nhẹ,cung cấp độ ấm nhẹ và phản ứng với chuyển động tự nhiên của người mặc.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 7, 'productName' => 'Áo phông đồ họa Nike oversized vừa vặn màu trắng', 'image' => '21392532-1-white.jpg',
+                'price' => 659000, 'topHot' => rand(0, 1),
+                'detail' => 'Áo mềm mại, thoáng khí, vải áo thun, 100% cotton.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 7, 'productName' => 'Áo phông Nike Dri-FIT', 'image' => 'dri-fit-graphic-training-t-shirt-3BHcCx.jpg',
+                'price' => 659000, 'topHot' => rand(0, 1),
+                'detail' => 'Áo phông Nike Dri-FIT được thiết kế với đồ họa Swoosh đến từ văn hóa đi xe đạp thành phố. Chất liệu vải mềm mại với công nghệ thấm mồ hôi giúp bạn luôn khô thoáng và dễ chịu.'
+            ],
+            //Nike - Áo khoác (7 - 3)
+            [
+                'typeID' => 3, 'brandID' => 7, 'productName' => 'Áo khoác dệt Williwaw nam Nike Sportswear Reissue', 'image' => 'sportswear-reissue-williwaw-woven-jacket-vlXn18.jpg',
+                'price' => 4029000, 'topHot' => rand(0, 1),
+                'detail' => 'Áo khoác dệt kim Nike Sportswear Reissue là một chiếc áo khoác thuyền buồm được làm từ vải dệt cao cấp và có thiết kế đúng với bản gốc. Sự kết hợp giữa in, thêu và vá mang đến một kết cấu đa dạng và thẩm mỹ cổ điển sẵn sàng cho việc xếp lớp trong thời tiết ấm áp.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 7, 'productName' => 'Áo khoác chạy bộ nam Nike Essential Run Division Flash', 
+                'image' => 'essential-run-division-flash-running-jacket-pqKdFr.jpg',
+                'price' => 1748000, 'topHot' => rand(0, 1),
+                'detail' => 'Áo khoác Nike Essential được cập nhật với chất liệu vải không thấm nước và độ che phủ an toàn. Thiết kế nhẹ của nó giúp chống chọi với thời tiết khi bạn ra đường.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 7, 'productName' => 'Áo khoác thể thao nam NikeLab', 
+                'image' => 'nikelab-track-jacket-rL5gx6.jpg',
+                'price' =>3419000 , 'topHot' => rand(0, 1),
+                'detail' => 'Quay trở lại với các thiết kế cổ điển, lấy cảm hứng từ đường đua, NikeLab Track Jacket được làm từ vải dệt cho cảm giác êm ái. Túi zip giữ cho đồ của bạn an toàn khi di chuyển.'
+            ],
+            //Nike - Dép (7 - 4)
+            [
+                'typeID' => 4, 'brandID' => 7, 'productName' => 'DÉP NIKE BENASSI TRẮNG ĐEN', 
+                'image' => 'hang-chinh-hang-dep-nike-benassi-trang-den.jpg',
+                'price' => 750000, 'topHot' => rand(0, 1),
+                'detail' => 'Mang rất êm phối màu cực độc không đụng hàng.'
+            ],
+            [
+                'typeID' => 4, 'brandID' => 7, 'productName' => 'Dép Nike Kawa Slide Sandals Black White Màu Đen', 
+                'image' => 'dep-nike-kawa-slide-sandals-black-white-mau-den-5fae499be26d8-13112020155347.jpg',
+                'price' => 950000, 'topHot' => rand(0, 1),
+                'detail' => 'Nike Kawa Slide Sandals được làm từ chất liệu da tổng hợp và pylons đem lại cảm giác thoải mái khi mang. Form dép với các đường nét vô cùng tinh tế và sắc sảo, đế dép với chất liệu cao su mềm, nhẹ, bền có đặc điểm êm chân và thông thoáng thích hợp cùng bạn hoạt động suốt ngày dài.'
+            ],
+            [
+                'typeID' => 4, 'brandID' => 7, 'productName' => 'Nike Victori One pool slides', 
+                'image' => '16531897_32110943_1000.jpg',
+                'price' => 1697000, 'topHot' => rand(0, 1),
+                'detail' => 'Lớp Lót: Cao Su 100, đế: Cao Su 100%, bên Ngoài: Vải 100%.'
+            ],
+            //Nike - Giày (7 - 5)
+            [
+                'typeID' => 5, 'brandID' => 7, 'productName' => 'Nike Air Max 95 SE', 
+                'image' => 'air-max-95-se-shoe-36d44Z.jpg',
+                'price' => 4999000, 'topHot' => rand(0, 1),
+                'detail' => 'Lấy cảm hứng từ cơ thể con người và tính thẩm mỹ từ các môn thể thao thập niên 90, Nike Air Max 95 SE kết hợp sự thoải mái đến khó tin và phong cách quay đầu với một thiết kế bền vững. denim và lưới. Đồ họa nút chai thêu trên lưỡi gật đầu với loại cây được sử dụng trong thiết kế. Không khí có thể xử lý được ở gót chân và đệm bàn chân trước mỗi bước đi.'
+            ],
+            [
+                'typeID' => 5, 'brandID' => 7, 'productName' => 'Nike Cosmic Unit', 
+                'image' => 'cosmic-unity-basketball-shoe-B3qDKv.jpg',
+                'price' => 4409000, 'topHot' => rand(0, 1),
+                'detail' => 'Chúng tôi đã xây dựng một hình bóng đẹp mắt và thoải mái với tính bền vững. Nó được làm từ vật liệu tái chế ít nhất 25% tính theo trọng lượng và được trang bị Air Zoom Strobel tái chế một phần được thiết kế để giúp bạn rê bóng hiệu quả hoặc phòng thủ hiệu quả.'
+            ],
+            [
+                'typeID' => 5, 'brandID' => 7, 'productName' => 'Nike React Infinity Run Flyknit 2', 
+                'image' => 'react-infinity-run-flyknit-2-running-shoe-Qfh63N.jpg',
+                'price' =>4699000, 'topHot' => rand(0, 1),
+                'detail' => 'Phần trên được làm mới sử dụng công nghệ Flywire kết hợp với Flyknit để hỗ trợ và thở khi bạn cần. Chiều cao bọt cao mang lại khả năng phản hồi mềm mại và sự thoải mái lâu dài. Nó vẫn là một trong những đôi giày được thử nghiệm nhiều nhất của chúng tôi, được thiết kế để giúp bạn cảm nhận được tiềm năng khi chân của bạn chạm vào mặt đường.'
+            ],
+            //Nike - Quần dài (7 - 6)
+            [
+                'typeID' => 6, 'brandID' => 7, 'productName' => 'Nike Sportswear City Made', 
+                'image' => 'sportswear-city-made-woven-trousers-hK8Nkk.jpg',
+                'price' => 2759000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần Nike Air Woven cập nhật kiểu dáng chủ lực với vải Ripstop và các tấm gia cố. Thiết kế chân côn và các chi tiết tiện ích mang đến cái nhìn chiến thuật, gọn gàng.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 7, 'productName' => 'Quần tây nam Skate Chino Nike SB Dri-FIT', 
+                'image' => 'sb-dri-fit-skate-chino-trousers-FvXf48.jpg',
+                'price' => 1479000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần Nike SB Dri-FIT Chino có thiết kế dạng pull dễ dàng với dây thắt lưng có thể điều chỉnh để tạo sự thoải mái khi di chuyển cùng bạn.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 7, 'productName' => 'Quần dài nam dệt kim Nike Phenom Elite', 
+                'image' => 'phenom-elite-woven-running-trousers-rgtqhP.jpg',
+                'price' => 2039000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần Nike Phenom Elite được làm từ vải co giãn, nhẹ, phiên bản này mang đến cảm giác vừa vặn và thoải mái hơn so v* ới các phiên bản tiền nhiệm, mang lại cho bạn cảm giác thon gọn trong suốt phần chân và thuôn về phía mắt cá chân. Sản phẩm này được làm từ ít nhất 50% tái chế. sợi polyester.'
+            ],
+            //Nike - Quần short (7 - 8)
+            [
+                'typeID' => 8, 'brandID' => 7, 'productName' => 'Quần áo thể thao Nike', 
+                'image' => 'sportswear-jersey-shorts-KmJNbM.jpg',
+                'price' => 1019000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần short thể thao Nike là một phong cách giản dị được tạo ra để mặc hàng ngày. Vải áo thun mềm mại của họ cung cấp giao diện của quần đùi lông cừu yêu thích của bạn trong một loại vải sẵn sàng cho nhiệt độ ấm hơn.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 7, 'productName' => 'Quần short Skate Cargo Nike SB', 
+                'image' => 'sb-skate-cargo-shorts-xmn03r.jpg',
+                'price' => 1579000, 'topHot' => rand(0, 1),
+                'detail' => 'Được làm từ chất liệu vải Ripstop bền bỉ, Quần short chở hàng Nike SB được tạo ra để tồn tại lâu dài. Thiết kế thùng hàng có nhiều túi nên bạn có thể để đồ trong tầm tay khi di chuyển.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 7, 'productName' => 'Jordan Dri-FIT Zion', 
+                'image' => 'jordan-dri-fit-zion-mesh-shorts-9qn7md.jpg',
+                'price' => 1739000, 'topHot' => rand(0, 1),
+                'detail' => 'Jordan Dri-FIT Zion Shorts linh hoạt từ tòa án này sang đường phố khác với vải lưới hai lớp và dây thắt lưng có gân cực dày và nặng. Túi zip bổ sung thêm tiện ích và chi tiết zigzag đan trong và biểu tượng của Zion truyền cho chúng bản sắc đặc trưng của anh ấy.'
+            ],
+            //Nike - Nón (7 - 9)
+            [
+                'typeID' => 9, 'brandID' => 7, 'productName' => 'Nike Sportswear Heritage86', 
+                'image' => 'sportswear-heritage86-beach-cap-1g8tKd.jpg',
+                'price' => 609000, 'topHot' => rand(0, 1),
+                'detail' => 'Nón Nike Sportswear Heritage86 Cap được làm từ vải cotton dệt trơn đã được xử lý bằng giặt nặng để có được vẻ ngoài cổ điển, phai màu. Hình ảnh thêu ở mặt trước với mật độ cao và phần đóng kim loại có thương hiệu ở mặt sau giúp thể hiện tình yêu đối với thương hiệu cho dù bạn mặc nó như thế nào.'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 7, 'productName' => 'Nike Dri-FIT Pro', 
+                'image' => 'dri-fit-pro-trail-running-cap-hcdQk2.jpg',
+                'price' => 709000, 'topHot' => rand(0, 1),
+                'detail' => 'Chạy những con đường ngược đó một cách thoải mái mát mẻ với Nike Dri-FIT Pro Cap. Thiết kế có thể điều chỉnh của nó cho phép bạn kiểm soát độ vừa vặn và độ che phủ.'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 7, 'productName' => 'Jordan Jumpman Legacy91 Air', 
+                'image' => 'jordan-jumpman-legacy91-air-cap-WfhVxD.jpg',
+                'price' => 659000, 'topHot' => rand(0, 1),
+                'detail' => 'Jordan Jumpman Legacy91 Air Cap sử dụng các chi tiết lấy cảm hứng từ đội đua mô tô chuyên nghiệp của Michael Jordan. Nó có một vương miện có cấu trúc 6 bảng và điều chỉnh bằng dây đeo.'
+            ]
+        ]);
+        //Prada
+        DB::table('products')->insert([
+            //Prada - Áo sơ mi (8-1)
+            [
+                'typeID' => 1, 'brandID' => 8, 'productName' => 'Áo sơ mi trơn màu', 
+                'image' => '327cfef6e8fa1f382b8c10f6e4ca044e1c60d0bf_0.jpg',
+                'price' => 5299000, 'topHot' => rand(0, 1),
+                'detail' => 'Poplin không có đính kết,màu cơ bản liền khối,tay áo dàic cổ tay áo có cài khuy Đường viền cổ điển,không có túi căng.'
+            ],
+            [
+                'typeID' => 1, 'brandID' => 8, 'productName' => 'Áo sơ mi họa tiết', 
+                'image' => '4df7d3d840cf3cdafbc874e7bbf92b677108b908_0.jpg',
+                'price' => 5413000, 'topHot' => rand(0, 1),
+                'detail' => 'Dệt trơn, Logo, thiết kế hoa, đóng trước, đóng nút, tay áo ngắn, cổ ve áo, túi ngực đơn, đường viền khe bên.'
+            ],
+            [
+                'typeID' => 1, 'brandID' => 8, 'productName' => 'Áo sơ mi và áo cánh đồng màu', 
+                'image' => '38959825DJ_14_f.jpg',
+                'price' => 13305000, 'topHot' => rand(0, 1),
+                'detail' => 'poplin, nhấp nháy, màu liền khối cơ bản, đóng trước, đóng nút, tay áo dài, cổ tay áo có cúc, đường viền cổ điển, hai túi ngực, túi có nút, chứa các bộ phận không dệt có nguồn gốc động vật.'
+            ],
+            //Prada - Áo thun (8-2)
+            [
+                'typeID' => 2, 'brandID' => 8, 'productName' => 'Áo phông Prada', 
+                'image' => '8d2e6325fb90494ded5aec17bf2e65649022ef30_0.jpg',
+                'price' => 5367000, 'topHot' => rand(0, 1),
+                'detail' => 'áo thun, logo, đồng màu, cổ tròn, tay ngắn, không túi, kéo dài, cỡ nhỏ.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 8, 'productName' => 'Áo phông họa tiết', 
+                'image' => '2dd9e87ccf67851ebdb6473a8e7fedc56e006c4d_0.jpg',
+                'price' => 10978000, 'topHot' => rand(0, 1),
+                'detail' => 'áo tổng hợp, logo, hai tông màu, cổ tròn, tay ngắn, không túi, cỡ nhỏ.'
+            ],
+            [
+                'typeID' => 2, 'brandID' => 8, 'productName' => 'Áo phông tay dài Prada', 
+                'image' => '58411a659cab21c511680be723dcadc5f2936b9f_0.jpg',
+                'price' => 7776000, 'topHot' => rand(0, 1),
+                'detail' => 'áo thun, logo, màu trơn, cao cổ, tay dài, không túi, cỡ nhỏ.'
+            ],
+            //Prada - Áo khoác (8-3)
+            [
+                'typeID' => 3, 'brandID' => 8, 'productName' => 'Áo Bombers', 
+                'image' => '94dc1fd41d4f823c15d4dbaea97acdb4ad4abcab_0.jpg',
+                'price' => 60660000, 'topHot' => rand(0, 1),
+                'detail' => 'các ứng dụng tương phản, Logo, đồng màu có đính kết, áo ngực đơn, áo cổ lọ, tay áo dài, khóa kéo, nhiều túi, túi trong, lót đầy đủ, chứa các bộ phận không dệt có nguồn gốc động vật, có kích thước lớn.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 8, 'productName' => 'Áo khoác dù Prada', 
+                'image' => '9d5ce8645dce5a4cef62931c998ad423f028cbcf_0.jpg',
+                'price' => 11147000, 'topHot' => rand(0, 1),
+                'detail' => 'vải techno, logo, màu cơ bản, áo ngực đơn, zip, cao cổ, nhiều túi, tay áo dài, không viền, cỡ lớn.'
+            ],
+            [
+                'typeID' => 3, 'brandID' => 8, 'productName' => 'Áo Bombers', 
+                'image' => '1f394c56e929e61174c3348a847387fbaee5dbff_0.jpg',
+                'price' => 20373000, 'topHot' => rand(0, 1),
+                'detail' => 'áo jersey, vải kỹ thuật, Logo, một chiếc áo ngực, màu cơ bản đồng màu, dây kéo đóng, cổ áo có mũ trùm đầu, nhiều túi, tay áo dài, không có đường viền, kích thước lớn.'
+            ],
+            //Prada - Dép (8-4)
+            [
+                'typeID' => 4, 'brandID' => 8, 'productName' => 'Dép Prada Logo Embossed Rubber Slides', 
+                'image' => 'dep-prada-logo-embossed-rubber-slides-mau-do-den-5ed75aba70ba8-03062020150930.jpg',
+                'price' => 5350000, 'topHot' => rand(0, 1),
+                'detail' => 'Dép Prada Logo Embossed Rubber Slides Màu Đỏ Đen thiết kế kiểu dáng hiện đại. Dép được làm từ chất liệu cao su cao cấp mang lại cảm giác thoải mái, tiện lợi nhất cho người sử dụng, họa tiết tên thương hiệu "Prada" nổi bật màu trắng trên nền dép màu đỏ đầy tinh tế tạo điểm nhấn nổi bật. Form dép vừa vặn đi lên chân nổi bật, rất tiện lợi.'
+            ],
+            [
+                'typeID' => 4, 'brandID' => 8, 'productName' => 'Dép nam Prada', 
+                'image' => 'untzoud03lsme.jpg',
+                'price' => 1730000, 'topHot' => rand(0, 1),
+                'detail' => 'Hàng bên em nhập trực tiếp tại xưởng không qua trung gian bao rẻ, bao đẹp toàn thị trường.Hàng sử dụng nguyên liệu giống với sản phẩm chính hãng, dã thật 100%.'
+            ],
+            [
+                'typeID' => 4, 'brandID' => 8, 'productName' => 'Dép nam hiệu Prada 7', 
+                'image' => 'dep-nam-hieu-prada-supper-fake-0007-1.jpg',
+                'price' => 450000, 'topHot' => rand(0, 1),
+                'detail' => 'Hàng chất lượng, tạo cảm giác êm chân khi di chuyển.'
+            ],
+            //Prada - Giày (8-5)
+            [
+                'typeID' => 5, 'brandID' => 8, 'productName' => 'Prada Cloudbust thời trang', 
+                'image' => 'ba9cad7b8510cabd463ccd7a2d83be3336730b89_0.jpg',
+                'price' => 2000000, 'topHot' => rand(0, 1),
+                'detail' => 'giầy sneaker đi thời trang cho anh chị em, mẫu này cực kì độc đáo và cực kì chất lượng, đi bền mà đẹp, thời trang cực kì trẻ trung,khác lạ với phần còn lại của thế giới.'
+            ],
+            [
+                'typeID' => 5, 'brandID' => 8, 'productName' => 'PRADA LINEA ROSSA', 
+                'image' => 'c1ff0a8a101cf6eb5fa486169367f0e8af505524_0.jpg',
+                'price' => 11928000, 'topHot' => rand(0, 1),
+                'detail' => 'dệt kim, logo, đồng màu có đính kim sa, đường viền tròn, gót nhọn, nêm cao su, mặt trong bằng vải, đế cao su.'
+            ],
+            [
+                'typeID' => 5, 'brandID' => 8, 'productName' => 'Giày nam Prada hàng Siêu Cấp', 
+                'image' => 'a519dd0503949c96bbd8e8c0a131ca66a065bfd9_0.jpg',
+                'price' => 2220000, 'topHot' => rand(0, 1),
+                'detail' => 'Giày nam Prada size 38-45, hàng nhập trực tiếp tại xưởng không qua trung gian.'
+            ],
+            //Prada - Quần dài (8-6)
+            [
+                'typeID' => 6, 'brandID' => 8, 'productName' => 'cropped tailored trousers', 
+                'image' => 'b299bc9cc195cf44f3dacc4ef4a3a3baf68360f9_0.jpg',
+                'price' => 22891000, 'topHot' => rand(0, 1),
+                'detail' => 'Những chiếc quần dài được cắt may cắt xén màu đen này từ bộ sưu tập AW19 của Prada có lớp hoàn thiện bóng cho một phong cách thoải mái nhưng tinh tế. Có dây thắt lưng đàn hồi với các vòng đai, khóa zip giấu kín, túi có khe bên, túi có dây phía sau và chiều dài được cắt bớt.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 8, 'productName' => 'quần tây Prada được thiết kế riêng', 
+                'image' => '325d530db9eb0119dfa1577d3b6e658cf55c3597_0.jpg',
+                'price' => 22698000, 'topHot' => rand(0, 1),
+                'detail' => 'Càng nhiều túi, càng vui. Những chiếc quần thể thao ống côn màu đen này của Prada đảm bảo bạn có chỗ cho mọi thứ. Mặc chúng trên đường đến phòng tập thể dục hoặc vào những ngày cuối tuần lười biếng.'
+            ],
+            [
+                'typeID' => 6, 'brandID' => 8, 'productName' => 'quần thể thao côn', 
+                'image' => '7b1dd84209bdcdd1dcf7dc059b4e341d1fd5b0f1_0.jpg',
+                'price' => 33192000, 'topHot' => rand(0, 1),
+                'detail' => 'Càng nhiều túi, càng vui. Những chiếc quần thể thao ống côn màu đen này của Prada đảm bảo bạn có chỗ cho mọi thứ. Mặc chúng trên đường đến phòng tập thể dục hoặc vào những ngày cuối tuần lười biếng.'
+            ],
+            //Prada - Quần jean (8-7)
+            [
+                'typeID' => 7, 'brandID' => 8, 'productName' => 'Quần denim 1', 
+                'image' => 'cdce00a86467882e9fe215e0d817941b3fa4455d_0.jpg',
+                'price' => 3745000, 'topHot' => rand(0, 1),
+                'detail' => 'denim, bạc màu, thắt lưng, đồng màu, giặt vừa, tăng giữa, đóng trước, đóng nút, nhiều túi, cỡ lớn.'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 8, 'productName' => 'Quần denim 2', 
+                'image' => 'ccd02f9fd7b9de333576ee4a3ccecd2e5466c5c3_0.jpg',
+                'price' => 8291000, 'topHot' => rand(0, 1),
+                'detail' => 'Denim, Đinh tán, Logo, màu đồng nhất, Màu rửa, Tăng giữa, Đóng cửa trước, Nút, zip, Nhiều túi, quần ống thẳng, cỡ lớn.'
+            ],
+            [
+                'typeID' => 7, 'brandID' => 8, 'productName' => 'Quần denim 3', 
+                'image' => '8f67bea41848acb36ed5a218d191fd54707e4591_0.jpg',
+                'price' => 7966000, 'topHot' => rand(0, 1),
+                'detail' => 'vải denim, không có đính kết, giặt có màu, đồng màu, tăng giữa, đóng cửa trước, nút, zip, nhiều ngăn, kéo dài, kích thước lớn.
+                '
+            ],
+            //Prada - Quần short (8-8)
+            [
+                'typeID' => 8, 'brandID' => 8, 'productName' => 'Quần đùi & Bermuda Prada 1', 
+                'image' => 'f6c163cb63601cd85509ee5ca6456d337965ab6d_0.jpg',
+                'price' => 15794000, 'topHot' => rand(0, 1),
+                'detail' => 'jersey, thắt lưng, logo, màu đồng nhất, tăng giữa, vừa vặn, thẳng chân, móc và thanh, zip, nhiều túi, kéo dài.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 8, 'productName' => 'Quần đùi & Bermuda Prada 2', 
+                'image' => '61711443621a58647173152bba8d977d80f0624a_0.jpg',
+                'price' => 13047000, 'topHot' => rand(0, 1),
+                'detail' => 'dệt trơn, thiết kế hình học, dây buộc, thắt lưng cao, vừa vặn, đóng nút, nhiều túi, có chứa các bộ phận không phải dệt có nguồn gốc động vật.'
+            ],
+            [
+                'typeID' => 8, 'brandID' => 8, 'productName' => 'QUẦN SHORT COTTON MÀU BE', 
+                'image' => 'e744d73c30a468e0689af790fda86091d129944b_0.jpg',
+                'price' => 2598000, 'topHot' => rand(0, 1),
+                'detail' => 'Quần đùi được thiết kế riêng cho giới tính, size 36 cho nữ, 38 cho nam.'
+            ],
+            //Prada - Nón (8-9)
+            [
+                'typeID' => 9, 'brandID' => 8, 'productName' => 'Mũ đen Prada', 
+                'image' => '575b96bf9441fd5b25c99054f2db1f2ed7b0015b_0.jpg',
+                'price' => 10824000, 'topHot' => rand(0, 1),
+                'detail' => 'Logo hình tam giác bằng kim loại tráng men Lớp lót bông.'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 8, 'productName' => 'Mũ bóng chày Re-Nylon', 
+                'image' => '16433005_31757043_1000.jpg',
+                'price' => 9843000, 'topHot' => rand(0, 1),
+                'detail' => 'Đôi khi, sự đơn giản là chìa khóa. Cụ thể, chiếc mũ lưỡi trai màu đen hoàn toàn của Prada được làm từ vải Re-Nylon đặc trưng của thương hiệu và không có phần cứng và trang trí. Giữ nó đơn giản.'
+            ],
+            [
+                'typeID' => 9, 'brandID' => 8, 'productName' => 'Mũ xô dán logo có thể đảo ngược', 
+                'image' => '16431281_31756556_1000.jpg',
+                'price' => 25294000, 'topHot' => rand(0, 1),
+                'detail' => 'Ai mà không yêu thích một thiết kế hai trong một? Chiếc mũ xô có thể đảo ngược màu xanh và đen này từ Prada giúp bạn có thêm nhiều lựa chọn về kiểu dáng. Nhân đôi khả năng, nhân đôi phong cách.'
+            ]
         ]);
     }
 }

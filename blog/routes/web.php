@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,13 +14,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function(){
-    return view('welcome');
-})->name('welcome')->middleware('checkLogin');
+// Route::get('/', function(){
+//     return view('welcome');
+// })->name('welcome')->middleware('checkLogin');
 //Trang chủ
 Route::get('/','ProductController@index')->name('homePage');
 
 //Login
-Route::get('/login', function(){
-    return view('login');
-})->name('login');
+// Route::get('/login', function(){
+//     return view('login');
+// })->name('login');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
