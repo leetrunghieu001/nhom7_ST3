@@ -1,6 +1,28 @@
 @extends('layout.master')
 @section('title','Trang chủ')
 @section('main')
+<style>
+    .product-img {
+        text-align: center;
+        height: 450px;
+        border: 1px solid black;
+    }
+
+    .product-img img {
+        height: 100% !important;
+    }
+
+    .product-name {
+        height: 80px;
+    }
+
+    .product-name h5 {
+        max-height: 80px;
+    }
+    .add-to-cart-btn{
+    box-shadow: 0px 5px 10px #212121;
+    }
+</style>
 <!-- ****** Quick View Modal Area Start ****** -->
 <div class="modal fade" id="quickview" tabindex="-1" role="dialog" aria-labelledby="quickview" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
@@ -118,19 +140,26 @@
                 </div>
                 <!-- Product Description -->
                 <div class="product-description">
-                    <h4 class="product-price">${{ number_format($value->price) }}</h4>
-                    <h5>{{ $value->productName }}</h5>
+                    <h4 class="product-price" style="color: black;">${{ number_format($value->price) }}</h4>
+                    <div class="product-name">
+                        <h5>{{ $value->productName }}</h5>
+                    </div>
                     <!-- The star vote-->
-                    <div class="top_seller_product_rating mb-15" style="color:#FFD700">
+                    <div class="top_seller_product_rating mb-15" style="color:#FFD700;height: 5px;">
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star-o" aria-hidden="true"></i>
                     </div>
+
                     <!-- Add to Cart -->
-                    <a href="#" class="add-to-cart-btn">ADD TO CART</a>
-                    <p><b>Brand:</b> {{ $value->brand->brandName }}</p>
+                    <div class="add-to-card" style="height: 50px;">
+                        <a href="#" class="btn btn-warning add-to-cart-btn " role="button">
+                            <h5>ADD TO CART <i class="fa fa-cart-plus" aria-hidden="true"></i></h5>
+                        </a>
+                    </div>
+                    <p style="padding-top: 15px;"><b>Brand:</b> {{ $value->brand->brandName }}</p>
                     <p><b>Type:</b> {{ $value->type->typeName }}</p>
                 </div>
             </div>
@@ -155,7 +184,7 @@ function convert_vi_to_en($str)
     $str = preg_replace("/(Ù|Ú|Ụ|Ủ|Ũ|Ư|Ừ|Ứ|Ự|Ử|Ữ)/", "U", $str);
     $str = preg_replace("/(Ỳ|Ý|Ỵ|Ỷ|Ỹ)/", "Y", $str);
     $str = preg_replace("/(Đ)/", "D", $str);
-    //$str = str_replace(" ", "-", str_replace("&*#39;","",$str));
+    $str = str_replace(" ", "-", str_replace("&*#39;", "", $str));
     return $str;
 }
 ?>

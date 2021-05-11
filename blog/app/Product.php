@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
 {
-    public $timestamps = false;
+    // public $timestamps = false;
     //Khoá ngoại Product - Type
     public function type(){
         return $this->belongsTo('App\Type','typeID','typeID');
