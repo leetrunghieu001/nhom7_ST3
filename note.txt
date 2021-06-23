@@ -1,2 +1,0 @@
-Đã làm xong sql, giao diện trang chủ, hiển thị các sản phẩm, lọc sản phẩm theo Type và Brand
-Đã cài Authentication

@@ -1,0 +1,108 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Karl - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Karl is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform. It's super responsive for all      Desktop/Mobile layout.
+    :: Version: 1.0
+    :: Created: 09 January 2018
+    :: Last Updated: 09 January 2018
+    ---------------------------------------------------------- */
+    /* -------------------------------------------------
+    ============ PLACE YOUR CUSTOM CSS HERE ============
+    ------------------------------------------------- */
+    
+    a.user {
+        margin-right: 15px;
+    }
+    
+    .text-alert.register-announ {
+        text-align: center;
+        font-size: 1.5rem;
+        color: #6e0d6ffa;
+        font-weight: bold;
+    }
+    
+    h4.thanks-style {
+        color: #e44fff;
+        font-size: 44px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    
+    input.help-line.input-search {
+        border: 1px solid #f9bbf9;
+        color: #770294;
+    }
+    
+    input.btn.btn-default.btn-sm.search-font {
+        color: rgb(64, 15, 68);
+        background: rgb(232, 149, 253);
+        transition: 1s;
+    }
+    
+    input.btn.btn-default.btn-sm.search-font:hover {
+        color: white;
+        background: purple;
+        transition: 1s;
+    }
+    
+    input.btn.btn-default.btn-sm {
+        margin-top: -5px;
+    }
+    
+    form.font-form {
+        margin-top: -15px;
+    }
+    
+    input[type="checkbox"] {
+        -webkit-appearance: checkbox!important;
+        max-width: 20px;
+    }
+    
+    span.label.col-md-6.forgot {
+        color: #00ffd0;
+    }
+    
+    span.label.col-md-6.forgot:hover {
+        transition: 1s;
+        color: blueviolet;
+    }
+    
+    textarea.form-control.fort-note {
+        height: max-content;
+    }
+    
+    .form-row-last.sign-font {
+        margin-top: 50px;
+    }
+    
+    input.fa.fa-plus.focus_btn.btn-sm {
+        font-family: -webkit-pictograph;
+        border: 0;
+        width: 70px;
+        height: 30px;
+        background: #da5adfea;
+        color: white;
+    }
+    
+    input.fa.fa-plus.focus_btn.btn-sm:hover {
+        transition: 1s;
+        background: blueviolet;
+    }
+    
+    img.images-brand {
+        width: 50px;
+        margin-right: 20px;
+    }
+    
+    a.dropdown-item {
+        width: 215px;
+    }
+    
+    img.img-product {
+        height: 335px;
+    }
+    
+    p.product_name_height {
+        height: 50px;
+    }
